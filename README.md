@@ -1,2 +1,2 @@
 # Web-Scraping-Wuzzuf
-Scrapping Data From a Website Called (wuzzaf)[wuzzaf.com]
+Scrapping Data From a Website Called (wuzzaf)[https://wuzzuf.net]
