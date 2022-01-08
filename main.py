@@ -7,6 +7,27 @@ import streamlit as st
 import os
 
 
+hide_st_style = """
+        <style>
+        #MainMenu {visibility: hidden;}
+        footer {visibility: hidden;}
+        header {visibility: hidden;}
+        button[title="View fullscreen"] {
+         display: none;
+        }
+        button[title="View fullscreen"]:hover {
+        display: none;
+        }
+        summary{
+            display: none;
+        }
+        summary:hover{
+            display: none;
+        }
+        </style>
+        """
+st.markdown(hide_st_style, unsafe_allow_html=True)
+
 
 def to_infinity():
     index = 0
@@ -84,3 +105,4 @@ if submit_button:
         pass
     
     os.remove(currentTime)
+    
