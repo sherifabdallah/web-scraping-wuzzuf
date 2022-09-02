@@ -1,8 +1,8 @@
-# Egypts tech scene salaries
+# web-scraping-wuzzuf
 Scrapping data from vacancies & career opportunities website
 
 ## Table of Content
-- [Egypts tech scene salaries](#egypts-tech-scene-salaries)
+- [web-scraping-wuzzuf](#web-scraping-wuzzuf)
   * [Tools](#tools)
   * [How to run](#how-to-run)
   * [URL](#URL)
