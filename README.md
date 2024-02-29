@@ -17,7 +17,7 @@ Scrapping data from vacancies & career opportunities website
 ## How to run
 * Enter the directory where the script is located then type the following to the console
 ```sh
-$ git clone https://github.com/sherif-abdallah/web-scraping-wuzzuf web-scraping-wuzzuf
+$ git clone https://github.com/sherifabdallah/web-scraping-wuzzuf web-scraping-wuzzuf
 ```
 
 * Install Python 3.8 venv, pip and compiler
@@ -54,4 +54,4 @@ session operates in a virtual environment set up by `virtualenv`.
 * You can also navigate to the main website without needing to install python, you can navigate it from [here](https://share.streamlit.io/sherif-abdallah/web-scraping-wuzzuf/main/main.py)
 
 ## Author
-[Sherif Abdullah](https://github.com/sherif-abdallah)
+[Sherif Abdullah](https://github.com/sherifabdallah)
