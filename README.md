@@ -2,7 +2,7 @@
 Scrapping data from vacancies & career opportunities website
 
 ## Table of Content
-- [web-scraping-wuzzuf](#web-scraping-wuzzuf)
+- [wuzzuf-web-scraper](#wuzzuf-web-scraper)
   * [Tools](#tools)
   * [How to run](#how-to-run)
   * [URL](#URL)
